@@ -1,0 +1,96 @@
+body {
+  background-color: whitesmoke;
+}
+
+#coffeeshop,
+#about,
+#statistics,
+.div1 {
+  background-color: rgb(124, 231, 181);
+  color: black;
+  font-size: x-large;
+}
+
+.wholePage {
+  background-color: antiquewhite;
+  font-size: large;
+}
+
+#details {
+  color: blueviolet;
+  font-size: x-large;
+}
+
+.contactBody {
+  color: red;
+}
+#tr {
+  color: red;
+}
+
+#backtotop {
+  background-color: antiquewhite;
+  font-size: x-large;
+}
+
+#submit {
+  color: red;
+  background-color: turquoise;
+  font-size: x-large;
+  border-radius: 0.5rem;
+}
+
+.head {
+  color: red;
+  background-color: antiquewhite;
+}
+
+span {
+  text-transform: uppercase;
+}
+
+#firstH1 {
+  color: gray;
+}
+
+.menu {
+  margin-left: 2cm;
+  list-style-type: none;
+  display: inline;
+}
+
+.heading {
+  margin-left: 17.5cm;
+  padding-top: 0.1cm;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+  padding-right: 0cm;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  display: list-item;
+  background-color: #d8e8e3;
+  color: black;
+  float: inline-start;
+}
+
+li a {
+  display: flex;
+  color: black;
+  text-align: center;
+  padding: 16px 18px;
+  text-decoration: none;
+}
+li a:hover {
+  background-color: burlywood;
+}
+
+.aboutP1 {
+  font-size: x-large;
+  background-color: rgb(124, 231, 181);
+}
